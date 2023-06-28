@@ -1,0 +1,6 @@
+Virtual Machine -> Run on Hypervisor
+Container -> Run on Operating System Kernel
+
+
+Docker Basic:
+- docker run = docker container create + docker container start + docker container attach 
